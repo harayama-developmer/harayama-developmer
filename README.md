@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 
 [![TakuyaHarayama's github stats](https://github-readme-stats.vercel.app/api?username=harayama-developmer&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harayama-developmer&repo=startkit-docker-rails-6-postgresql&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harayama-developmer&repo=template-docker-rails-6-postgresql&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harayama-developmer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
